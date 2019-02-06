@@ -66,7 +66,7 @@ else:
 #### Load the MNIST data
 def load_data_shared(filename="../data/mnist.pkl.gz"):
     f = gzip.open(filename, 'rb')
-    training_data, validation_data, test_data = pickle.load(f)
+    training_data, validation_data, test_data = pickle.load(f, encoding="latin1")
     f.close()
     def shared(data):
         """Place the data into shared variables.  This allows Theano to copy

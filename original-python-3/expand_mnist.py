@@ -30,7 +30,7 @@ if os.path.exists("../data/mnist_expanded.pkl.gz"):
     print("The expanded training set already exists.  Exiting.")
 else:
     f = gzip.open("../data/mnist.pkl.gz", 'rb')
-    training_data, validation_data, test_data = pickle.load(f)
+    training_data, validation_data, test_data = pickle.load(f, encoding="latin1")
     f.close()
     expanded_training_pairs = []
     j = 0 # counter
