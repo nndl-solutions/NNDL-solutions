@@ -10,3 +10,4 @@ Here are the uploaded chapters so far:
 
 * [Chapter 0: Update the code for Python 3](notebooks/chap-0-update-code-for-python3.ipynb)
 * [Chapter 1: Using neural nets to recognize handwritten digits](notebooks/chap-1-using-neural-nets-to-recognize-handwritten-digits.ipynb)
+* [Chapter 2: How the backpropagation algorithm works](notebooks/chap-2-how-the-backpropagation-algorithm-works.ipynb)
