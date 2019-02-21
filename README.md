@@ -11,3 +11,4 @@ Here are the uploaded chapters so far (again, providing links to nbviewer):
 * [Chapter 0: Update the code for Python 3](https://nbviewer.jupyter.org/github/TimotheeChauvin/NNDL-solutions/blob/master/notebooks/chap-0-update-code-for-python3.ipynb)
 * [Chapter 1: Using neural nets to recognize handwritten digits](https://nbviewer.jupyter.org/github/TimotheeChauvin/NNDL-solutions/blob/master/notebooks/chap-1-using-neural-nets-to-recognize-handwritten-digits.ipynb)
 * [Chapter 2: How the backpropagation algorithm works](https://nbviewer.jupyter.org/github/timotheechauvin/NNDL-solutions/blob/master/notebooks/chap-2-how-the-backpropagation-algorithm-works.ipynb)
+* [Chapter 3: Improving the way neural networks learn](https://nbviewer.jupyter.org/github/timotheechauvin/NNDL-solutions/blob/master/notebooks/chap-3-improving-the-way-neural-networks-learn.ipynb)
