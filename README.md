@@ -12,3 +12,4 @@ Here are the uploaded chapters so far (again, providing links to nbviewer):
 * [Chapter 1: Using neural nets to recognize handwritten digits](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-1-using-neural-nets-to-recognize-handwritten-digits.ipynb)
 * [Chapter 2: How the backpropagation algorithm works](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-2-how-the-backpropagation-algorithm-works.ipynb)
 * [Chapter 3: Improving the way neural networks learn](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-3-improving-the-way-neural-networks-learn.ipynb)
+* [Chapter 4: A visual proof that neural nets can compute any function](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-4-a-visual-proof-that-neural-nets-can-compute-any-function.ipynb)
