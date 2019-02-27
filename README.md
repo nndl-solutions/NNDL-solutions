@@ -13,3 +13,4 @@ Here are the uploaded chapters so far (again, providing links to nbviewer):
 * [Chapter 2: How the backpropagation algorithm works](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-2-how-the-backpropagation-algorithm-works.ipynb)
 * [Chapter 3: Improving the way neural networks learn](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-3-improving-the-way-neural-networks-learn.ipynb)
 * [Chapter 4: A visual proof that neural nets can compute any function](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-4-a-visual-proof-that-neural-nets-can-compute-any-function.ipynb)
+* [Chapter 5: Why are deep neural networks hard to train?](https://nbviewer.jupyter.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-5-why-are-deep-neural-networks-hard-to-train.ipynb)
