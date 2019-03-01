@@ -1,7 +1,7 @@
-import network3p1
-from network3p1 import Network
-from network3p1 import ConvPoolLayer, FullyConnectedLayer, SoftmaxLayer
-training_data, validation_data, test_data = network3p1.load_data_shared()
+import network3p4
+from network3p4 import Network
+from network3p4 import ConvPoolLayer, FullyConnectedLayer, SoftmaxLayer
+training_data, validation_data, test_data = network3p4.load_data_shared()
 mini_batch_size = 10
 net = Network([
         ConvPoolLayer(image_shape=(mini_batch_size, 1, 28, 28), 
