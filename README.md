@@ -14,3 +14,4 @@ Here are the uploaded chapters so far (again, providing links to nbviewer):
 * [Chapter 3: Improving the way neural networks learn](https://nbviewer.jupyter.org/github/timotheechauvin/NNDL-solutions/blob/master/notebooks/chap-3-improving-the-way-neural-networks-learn.ipynb)
 * [Chapter 4: A visual proof that neural nets can compute any function](https://nbviewer.jupyter.org/github/timotheechauvin/NNDL-solutions/blob/master/notebooks/chap-4-a-visual-proof-that-neural-nets-can-compute-any-function.ipynb)
 * [Chapter 5: Why are deep neural networks hard to train?](https://nbviewer.jupyter.org/github/timotheechauvin/NNDL-solutions/blob/master/notebooks/chap-5-why-are-deep-neural-networks-hard-to-train.ipynb)
+* [Chapter 6: Deep learning](https://nbviewer.jupyter.org/github/timotheechauvin/NNDL-solutions/blob/master/notebooks/chap-6-deep-learning.ipynb) (in progress)
