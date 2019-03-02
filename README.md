@@ -2,7 +2,9 @@
 
 > Solutions (math and code) of the exercises and problems from Michael Nielsen's book [*Neural Networks And Deep Learning*](http://neuralnetworksanddeeplearning.com/) (and adaptations to the code for Python 3 and Theano 1.0.3).
 
-The solutions can be found in the directory ```notebooks```.
+Here's where to find the solutions to exercises and problems:
+* involving math:  `notebooks`
+* involving code: implemented in `code`, discussed in `notebooks`
 
 With links to nbviewer:
 
