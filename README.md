@@ -21,7 +21,7 @@ With links to nbviewer:
 So far, I've provided solutions to all exercises and problems, except:
 
 * chap3 p8, p9
-* chap4 p1 (b) and (c)
+* chap4 p1 (c)
 * chap6 p5, p7 (theano part)
 
 ## Contributing
